@@ -1,0 +1,77 @@
+.navbar{
+    border-bottom: 1px solid red;
+   
+    background-image: url("https://t3.ftcdn.net/jpg/03/18/70/54/360_F_318705491_qS1SWS7yqAXjpL1cKGyMKnVS6oX6kIVQ.jpg");
+    background-size: cover;
+   
+    
+}
+.login1{
+    border:2px solid red;
+    /* width:200px; */
+    margin-left:100px;
+    padding-left:200px;
+    height: 15em;
+    padding-top:50px;
+    margin-top:100px;
+    margin-right:100px;
+    
+}
+#loginbutton{
+    margin-left:200px;
+    margin-top:50px;
+}
+/* #id1{
+    float:inline-start;  
+
+}
+#title1{
+    border:2px solid red;
+    margin-left:200px;
+    margin-right:500px;
+    float:initial;
+    float:inherit;
+    margin-bottom:100%;
+} */
+
+#container {
+    display: table;
+    }
+
+  #row  {
+    display: table-row;
+    }
+
+  #left, #right, #middle {
+    display: table-cell;
+    }
+
+    #container1 {
+        display: table;
+        }
+    
+      #row1 {
+        display: table-row;
+        }
+    
+      #left1, #right1, #middle1 {
+        display: table-cell;
+        }
+      #des{
+        margin-left:100px;
+      }  
+      #status{
+        float:right;
+        margin-right:49%;
+      }
+      #des{
+        /* border:2px solid red; */
+        margin-left:200px;
+      }
+      #id2{
+        margin-left:21px;
+      }
+      #heading{
+        border:2px solid rebeccapurple;
+        padding-left:40%;
+      }
